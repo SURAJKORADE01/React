@@ -1,12 +1,12 @@
-import Chai from "./Chai"
+import Chai from "./Chai";
 
 function App() {
   return (
     <>
       <h1>Jay Hanuman...</h1>
-      <Chai></Chai>
+      <Chai/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
